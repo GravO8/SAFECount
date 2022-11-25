@@ -13,3 +13,5 @@ experiments/*/*/vis*/*
 experiments/*/checkpoints*/*
 experiments/*/log*/*
 experiments/*/vis*/*
+
+.DS_Store
